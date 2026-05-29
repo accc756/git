@@ -1,0 +1,35 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Recycle bin and indexing metadata
+$RECYCLE.BIN/
+System Volume Information/
+
+# macOS metadata
+.DS_Store
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node dependencies and logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
